@@ -12,3 +12,5 @@ https://creativecommons.org/licenses/by/3.0/
 
 I had made this for my sister's bitrhday.
 You are free to use this template as long as you give the above credits.
+
+Here is a preview: https://akul2010.github.io/Happy-Birthday-Template/
